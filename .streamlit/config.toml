@@ -1,0 +1,43 @@
+# Midnight Indigo theme for Job Search MCP Agent
+
+[theme]
+base = "dark"
+primaryColor = "#7C5CFF"
+backgroundColor = "#090B14"
+secondaryBackgroundColor = "#121526"
+codeBackgroundColor = "#171B2E"
+textColor = "#F4F5FA"
+linkColor = "#38BDF8"
+borderColor = "#232842"
+codeTextColor = "#E2E8F0"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "10px"
+buttonRadius = "10px"
+font = "'DM Sans':https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+headingFont = "'Space Grotesk':https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+codeFontSize = "0.875rem"
+baseFontSize = 14
+headingFontSizes = ["34px", "26px", "21px", "18px", "15px", "14px"]
+headingFontWeights = [700, 700, 600, 600, 600, 600]
+linkUnderline = false
+paddingTop = "2rem"
+paddingBottom = "3rem"
+
+blueColor = "#38BDF8"
+greenColor = "#34D399"
+violetColor = "#8B5CF6"
+orangeColor = "#FB923C"
+redColor = "#F87171"
+yellowColor = "#FACC15"
+grayColor = "#94A3B8"
+
+[theme.sidebar]
+backgroundColor = "#0C0F1D"
+secondaryBackgroundColor = "#14182B"
+codeBackgroundColor = "#171B2E"
+borderColor = "#232842"
+textColor = "#F4F5FA"
+primaryColor = "#7C5CFF"
+linkColor = "#38BDF8"
